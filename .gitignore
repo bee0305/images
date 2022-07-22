@@ -1,0 +1,20 @@
+*env
+.env
+
+media
+venv
+
+db.sqlite3
+*__pychache__
+*.pyc
+# Django #
+*.log
+*.pot
+__pycache__
+.vscode/*
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history
